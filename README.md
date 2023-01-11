@@ -29,6 +29,6 @@ Link to phase 2 report: https://docs.google.com/document/d/1GJGtkHT5UfOSzl5Y6lf2
 Link to video:https://drive.google.com/file/d/1rPj3NRbsOHy2o29OEhxMEY7gs8UPa0a4/view?usp=sharing
 Link to plagiarism report: https://drive.google.com/drive/folders/1O5eJ0emwp3QlSStglR3xPVEnlzPb8xhJ?usp=sharing
 
-
+Link to Publication: https://www.ijser.org/onlineResearchPaperViewer.aspx?Predictive-Human-Resource-Management-Model-Using-Attrition-Analysis.pdf
 
 
